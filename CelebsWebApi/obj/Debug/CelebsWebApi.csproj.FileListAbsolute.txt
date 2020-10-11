@@ -1,0 +1,153 @@
+C:\Users\idan\documents\visual studio 2017\Projects\CelebsManagement\CelebsWebApi\bin\ApplicationInsights.config
+C:\Users\idan\documents\visual studio 2017\Projects\CelebsManagement\CelebsWebApi\bin\roslyn\csc.exe
+C:\Users\idan\documents\visual studio 2017\Projects\CelebsManagement\CelebsWebApi\bin\roslyn\csc.exe.config
+C:\Users\idan\documents\visual studio 2017\Projects\CelebsManagement\CelebsWebApi\bin\roslyn\csc.rsp
+C:\Users\idan\documents\visual studio 2017\Projects\CelebsManagement\CelebsWebApi\bin\roslyn\csi.exe
+C:\Users\idan\documents\visual studio 2017\Projects\CelebsManagement\CelebsWebApi\bin\roslyn\csi.rsp
+C:\Users\idan\documents\visual studio 2017\Projects\CelebsManagement\CelebsWebApi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\idan\documents\visual studio 2017\Projects\CelebsManagement\CelebsWebApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\idan\documents\visual studio 2017\Projects\CelebsManagement\CelebsWebApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\idan\documents\visual studio 2017\Projects\CelebsManagement\CelebsWebApi\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\idan\documents\visual studio 2017\Projects\CelebsManagement\CelebsWebApi\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\idan\documents\visual studio 2017\Projects\CelebsManagement\CelebsWebApi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\idan\documents\visual studio 2017\Projects\CelebsManagement\CelebsWebApi\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\idan\documents\visual studio 2017\Projects\CelebsManagement\CelebsWebApi\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\idan\documents\visual studio 2017\Projects\CelebsManagement\CelebsWebApi\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\idan\documents\visual studio 2017\Projects\CelebsManagement\CelebsWebApi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\idan\documents\visual studio 2017\Projects\CelebsManagement\CelebsWebApi\bin\roslyn\System.AppContext.dll
+C:\Users\idan\documents\visual studio 2017\Projects\CelebsManagement\CelebsWebApi\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\idan\documents\visual studio 2017\Projects\CelebsManagement\CelebsWebApi\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\idan\documents\visual studio 2017\Projects\CelebsManagement\CelebsWebApi\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\idan\documents\visual studio 2017\Projects\CelebsManagement\CelebsWebApi\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\idan\documents\visual studio 2017\Projects\CelebsManagement\CelebsWebApi\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\idan\documents\visual studio 2017\Projects\CelebsManagement\CelebsWebApi\bin\roslyn\vbc.exe
+C:\Users\idan\documents\visual studio 2017\Projects\CelebsManagement\CelebsWebApi\bin\roslyn\vbc.exe.config
+C:\Users\idan\documents\visual studio 2017\Projects\CelebsManagement\CelebsWebApi\bin\roslyn\vbc.rsp
+C:\Users\idan\documents\visual studio 2017\Projects\CelebsManagement\CelebsWebApi\bin\roslyn\VBCSCompiler.exe
+C:\Users\idan\documents\visual studio 2017\Projects\CelebsManagement\CelebsWebApi\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\idan\documents\visual studio 2017\Projects\CelebsManagement\CelebsWebApi\bin\CelebsWebApi.dll.config
+C:\Users\idan\documents\visual studio 2017\Projects\CelebsManagement\CelebsWebApi\bin\CelebsWebApi.dll
+C:\Users\idan\documents\visual studio 2017\Projects\CelebsManagement\CelebsWebApi\bin\CelebsWebApi.pdb
+C:\Users\idan\documents\visual studio 2017\Projects\CelebsManagement\CelebsWebApi\bin\Antlr3.Runtime.dll
+C:\Users\idan\documents\visual studio 2017\Projects\CelebsManagement\CelebsWebApi\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\idan\documents\visual studio 2017\Projects\CelebsManagement\CelebsWebApi\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\idan\documents\visual studio 2017\Projects\CelebsManagement\CelebsWebApi\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\idan\documents\visual studio 2017\Projects\CelebsManagement\CelebsWebApi\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\idan\documents\visual studio 2017\Projects\CelebsManagement\CelebsWebApi\bin\Microsoft.AI.Web.dll
+C:\Users\idan\documents\visual studio 2017\Projects\CelebsManagement\CelebsWebApi\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\idan\documents\visual studio 2017\Projects\CelebsManagement\CelebsWebApi\bin\Microsoft.ApplicationInsights.dll
+C:\Users\idan\documents\visual studio 2017\Projects\CelebsManagement\CelebsWebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\idan\documents\visual studio 2017\Projects\CelebsManagement\CelebsWebApi\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\idan\documents\visual studio 2017\Projects\CelebsManagement\CelebsWebApi\bin\Newtonsoft.Json.dll
+C:\Users\idan\documents\visual studio 2017\Projects\CelebsManagement\CelebsWebApi\bin\System.Net.Http.Formatting.dll
+C:\Users\idan\documents\visual studio 2017\Projects\CelebsManagement\CelebsWebApi\bin\System.Web.Helpers.dll
+C:\Users\idan\documents\visual studio 2017\Projects\CelebsManagement\CelebsWebApi\bin\System.Web.Http.dll
+C:\Users\idan\documents\visual studio 2017\Projects\CelebsManagement\CelebsWebApi\bin\System.Web.Http.WebHost.dll
+C:\Users\idan\documents\visual studio 2017\Projects\CelebsManagement\CelebsWebApi\bin\System.Web.Mvc.dll
+C:\Users\idan\documents\visual studio 2017\Projects\CelebsManagement\CelebsWebApi\bin\System.Web.Optimization.dll
+C:\Users\idan\documents\visual studio 2017\Projects\CelebsManagement\CelebsWebApi\bin\System.Web.Razor.dll
+C:\Users\idan\documents\visual studio 2017\Projects\CelebsManagement\CelebsWebApi\bin\System.Web.WebPages.Deployment.dll
+C:\Users\idan\documents\visual studio 2017\Projects\CelebsManagement\CelebsWebApi\bin\System.Web.WebPages.dll
+C:\Users\idan\documents\visual studio 2017\Projects\CelebsManagement\CelebsWebApi\bin\System.Web.WebPages.Razor.dll
+C:\Users\idan\documents\visual studio 2017\Projects\CelebsManagement\CelebsWebApi\bin\WebGrease.dll
+C:\Users\idan\documents\visual studio 2017\Projects\CelebsManagement\CelebsWebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\idan\documents\visual studio 2017\Projects\CelebsManagement\CelebsWebApi\bin\Newtonsoft.Json.xml
+C:\Users\idan\documents\visual studio 2017\Projects\CelebsManagement\CelebsWebApi\bin\System.Net.Http.Formatting.xml
+C:\Users\idan\documents\visual studio 2017\Projects\CelebsManagement\CelebsWebApi\bin\System.Web.Helpers.xml
+C:\Users\idan\documents\visual studio 2017\Projects\CelebsManagement\CelebsWebApi\bin\System.Web.Http.xml
+C:\Users\idan\documents\visual studio 2017\Projects\CelebsManagement\CelebsWebApi\bin\System.Web.Http.WebHost.xml
+C:\Users\idan\documents\visual studio 2017\Projects\CelebsManagement\CelebsWebApi\bin\System.Web.Mvc.xml
+C:\Users\idan\documents\visual studio 2017\Projects\CelebsManagement\CelebsWebApi\bin\System.Web.Optimization.xml
+C:\Users\idan\documents\visual studio 2017\Projects\CelebsManagement\CelebsWebApi\bin\System.Web.Razor.xml
+C:\Users\idan\documents\visual studio 2017\Projects\CelebsManagement\CelebsWebApi\bin\System.Web.WebPages.xml
+C:\Users\idan\documents\visual studio 2017\Projects\CelebsManagement\CelebsWebApi\bin\System.Web.WebPages.Deployment.xml
+C:\Users\idan\documents\visual studio 2017\Projects\CelebsManagement\CelebsWebApi\bin\System.Web.WebPages.Razor.xml
+C:\Users\idan\documents\visual studio 2017\Projects\CelebsManagement\CelebsWebApi\bin\Antlr3.Runtime.pdb
+C:\Users\idan\documents\visual studio 2017\Projects\CelebsManagement\CelebsWebApi\bin\Microsoft.ApplicationInsights.xml
+C:\Users\idan\documents\visual studio 2017\Projects\CelebsManagement\CelebsWebApi\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\idan\documents\visual studio 2017\Projects\CelebsManagement\CelebsWebApi\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\idan\documents\visual studio 2017\Projects\CelebsManagement\CelebsWebApi\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\idan\documents\visual studio 2017\Projects\CelebsManagement\CelebsWebApi\bin\Microsoft.AI.Web.xml
+C:\Users\idan\documents\visual studio 2017\Projects\CelebsManagement\CelebsWebApi\obj\Debug\CelebsWebApi.dll
+C:\Users\idan\documents\visual studio 2017\Projects\CelebsManagement\CelebsWebApi\obj\Debug\CelebsWebApi.pdb
+C:\Users\idan\Documents\Visual Studio 2017\Projects\CelebsManagement\CelebsWebApi\bin\HtmlAgilityPack.dll
+C:\Users\idan\Documents\Visual Studio 2017\Projects\CelebsManagement\CelebsWebApi\bin\HtmlAgilityPack.pdb
+C:\Users\idan\Documents\Visual Studio 2017\Projects\CelebsManagement\CelebsWebApi\bin\HtmlAgilityPack.xml
+C:\Users\idan\Documents\Visual Studio 2017\Projects\CelebsManagement\CelebsWebApi\obj\Debug\CelebsWebApi.csprojResolveAssemblyReference.cache
+C:\Users\lior1\Google Drive\Ukraine\MarketMan\CelebsManagement\CelebsWebApi\bin\ApplicationInsights.config
+C:\Users\lior1\Google Drive\Ukraine\MarketMan\CelebsManagement\CelebsWebApi\bin\roslyn\csc.exe
+C:\Users\lior1\Google Drive\Ukraine\MarketMan\CelebsManagement\CelebsWebApi\bin\roslyn\csc.exe.config
+C:\Users\lior1\Google Drive\Ukraine\MarketMan\CelebsManagement\CelebsWebApi\bin\roslyn\csc.rsp
+C:\Users\lior1\Google Drive\Ukraine\MarketMan\CelebsManagement\CelebsWebApi\bin\roslyn\csi.exe
+C:\Users\lior1\Google Drive\Ukraine\MarketMan\CelebsManagement\CelebsWebApi\bin\roslyn\csi.rsp
+C:\Users\lior1\Google Drive\Ukraine\MarketMan\CelebsManagement\CelebsWebApi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\lior1\Google Drive\Ukraine\MarketMan\CelebsManagement\CelebsWebApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\lior1\Google Drive\Ukraine\MarketMan\CelebsManagement\CelebsWebApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\lior1\Google Drive\Ukraine\MarketMan\CelebsManagement\CelebsWebApi\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\lior1\Google Drive\Ukraine\MarketMan\CelebsManagement\CelebsWebApi\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\lior1\Google Drive\Ukraine\MarketMan\CelebsManagement\CelebsWebApi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\lior1\Google Drive\Ukraine\MarketMan\CelebsManagement\CelebsWebApi\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\lior1\Google Drive\Ukraine\MarketMan\CelebsManagement\CelebsWebApi\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\lior1\Google Drive\Ukraine\MarketMan\CelebsManagement\CelebsWebApi\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\lior1\Google Drive\Ukraine\MarketMan\CelebsManagement\CelebsWebApi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\lior1\Google Drive\Ukraine\MarketMan\CelebsManagement\CelebsWebApi\bin\roslyn\System.AppContext.dll
+C:\Users\lior1\Google Drive\Ukraine\MarketMan\CelebsManagement\CelebsWebApi\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\lior1\Google Drive\Ukraine\MarketMan\CelebsManagement\CelebsWebApi\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\lior1\Google Drive\Ukraine\MarketMan\CelebsManagement\CelebsWebApi\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\lior1\Google Drive\Ukraine\MarketMan\CelebsManagement\CelebsWebApi\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\lior1\Google Drive\Ukraine\MarketMan\CelebsManagement\CelebsWebApi\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\lior1\Google Drive\Ukraine\MarketMan\CelebsManagement\CelebsWebApi\bin\roslyn\vbc.exe
+C:\Users\lior1\Google Drive\Ukraine\MarketMan\CelebsManagement\CelebsWebApi\bin\roslyn\vbc.exe.config
+C:\Users\lior1\Google Drive\Ukraine\MarketMan\CelebsManagement\CelebsWebApi\bin\roslyn\vbc.rsp
+C:\Users\lior1\Google Drive\Ukraine\MarketMan\CelebsManagement\CelebsWebApi\bin\roslyn\VBCSCompiler.exe
+C:\Users\lior1\Google Drive\Ukraine\MarketMan\CelebsManagement\CelebsWebApi\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\lior1\Google Drive\Ukraine\MarketMan\CelebsManagement\CelebsWebApi\bin\CelebsWebApi.dll.config
+C:\Users\lior1\Google Drive\Ukraine\MarketMan\CelebsManagement\CelebsWebApi\bin\CelebsWebApi.dll
+C:\Users\lior1\Google Drive\Ukraine\MarketMan\CelebsManagement\CelebsWebApi\bin\CelebsWebApi.pdb
+C:\Users\lior1\Google Drive\Ukraine\MarketMan\CelebsManagement\CelebsWebApi\bin\Antlr3.Runtime.dll
+C:\Users\lior1\Google Drive\Ukraine\MarketMan\CelebsManagement\CelebsWebApi\bin\HtmlAgilityPack.dll
+C:\Users\lior1\Google Drive\Ukraine\MarketMan\CelebsManagement\CelebsWebApi\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\lior1\Google Drive\Ukraine\MarketMan\CelebsManagement\CelebsWebApi\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\lior1\Google Drive\Ukraine\MarketMan\CelebsManagement\CelebsWebApi\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\lior1\Google Drive\Ukraine\MarketMan\CelebsManagement\CelebsWebApi\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\lior1\Google Drive\Ukraine\MarketMan\CelebsManagement\CelebsWebApi\bin\Microsoft.AI.Web.dll
+C:\Users\lior1\Google Drive\Ukraine\MarketMan\CelebsManagement\CelebsWebApi\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\lior1\Google Drive\Ukraine\MarketMan\CelebsManagement\CelebsWebApi\bin\Microsoft.ApplicationInsights.dll
+C:\Users\lior1\Google Drive\Ukraine\MarketMan\CelebsManagement\CelebsWebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\lior1\Google Drive\Ukraine\MarketMan\CelebsManagement\CelebsWebApi\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\lior1\Google Drive\Ukraine\MarketMan\CelebsManagement\CelebsWebApi\bin\Newtonsoft.Json.dll
+C:\Users\lior1\Google Drive\Ukraine\MarketMan\CelebsManagement\CelebsWebApi\bin\System.Net.Http.Formatting.dll
+C:\Users\lior1\Google Drive\Ukraine\MarketMan\CelebsManagement\CelebsWebApi\bin\System.Web.Helpers.dll
+C:\Users\lior1\Google Drive\Ukraine\MarketMan\CelebsManagement\CelebsWebApi\bin\System.Web.Http.dll
+C:\Users\lior1\Google Drive\Ukraine\MarketMan\CelebsManagement\CelebsWebApi\bin\System.Web.Http.WebHost.dll
+C:\Users\lior1\Google Drive\Ukraine\MarketMan\CelebsManagement\CelebsWebApi\bin\System.Web.Mvc.dll
+C:\Users\lior1\Google Drive\Ukraine\MarketMan\CelebsManagement\CelebsWebApi\bin\System.Web.Optimization.dll
+C:\Users\lior1\Google Drive\Ukraine\MarketMan\CelebsManagement\CelebsWebApi\bin\System.Web.Razor.dll
+C:\Users\lior1\Google Drive\Ukraine\MarketMan\CelebsManagement\CelebsWebApi\bin\System.Web.WebPages.Deployment.dll
+C:\Users\lior1\Google Drive\Ukraine\MarketMan\CelebsManagement\CelebsWebApi\bin\System.Web.WebPages.dll
+C:\Users\lior1\Google Drive\Ukraine\MarketMan\CelebsManagement\CelebsWebApi\bin\System.Web.WebPages.Razor.dll
+C:\Users\lior1\Google Drive\Ukraine\MarketMan\CelebsManagement\CelebsWebApi\bin\WebGrease.dll
+C:\Users\lior1\Google Drive\Ukraine\MarketMan\CelebsManagement\CelebsWebApi\bin\HtmlAgilityPack.pdb
+C:\Users\lior1\Google Drive\Ukraine\MarketMan\CelebsManagement\CelebsWebApi\bin\HtmlAgilityPack.xml
+C:\Users\lior1\Google Drive\Ukraine\MarketMan\CelebsManagement\CelebsWebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\lior1\Google Drive\Ukraine\MarketMan\CelebsManagement\CelebsWebApi\bin\Newtonsoft.Json.xml
+C:\Users\lior1\Google Drive\Ukraine\MarketMan\CelebsManagement\CelebsWebApi\bin\System.Net.Http.Formatting.xml
+C:\Users\lior1\Google Drive\Ukraine\MarketMan\CelebsManagement\CelebsWebApi\bin\System.Web.Helpers.xml
+C:\Users\lior1\Google Drive\Ukraine\MarketMan\CelebsManagement\CelebsWebApi\bin\System.Web.Http.xml
+C:\Users\lior1\Google Drive\Ukraine\MarketMan\CelebsManagement\CelebsWebApi\bin\System.Web.Http.WebHost.xml
+C:\Users\lior1\Google Drive\Ukraine\MarketMan\CelebsManagement\CelebsWebApi\bin\System.Web.Mvc.xml
+C:\Users\lior1\Google Drive\Ukraine\MarketMan\CelebsManagement\CelebsWebApi\bin\System.Web.Optimization.xml
+C:\Users\lior1\Google Drive\Ukraine\MarketMan\CelebsManagement\CelebsWebApi\bin\System.Web.Razor.xml
+C:\Users\lior1\Google Drive\Ukraine\MarketMan\CelebsManagement\CelebsWebApi\bin\System.Web.WebPages.xml
+C:\Users\lior1\Google Drive\Ukraine\MarketMan\CelebsManagement\CelebsWebApi\bin\System.Web.WebPages.Deployment.xml
+C:\Users\lior1\Google Drive\Ukraine\MarketMan\CelebsManagement\CelebsWebApi\bin\System.Web.WebPages.Razor.xml
+C:\Users\lior1\Google Drive\Ukraine\MarketMan\CelebsManagement\CelebsWebApi\bin\Antlr3.Runtime.pdb
+C:\Users\lior1\Google Drive\Ukraine\MarketMan\CelebsManagement\CelebsWebApi\bin\Microsoft.ApplicationInsights.xml
+C:\Users\lior1\Google Drive\Ukraine\MarketMan\CelebsManagement\CelebsWebApi\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\lior1\Google Drive\Ukraine\MarketMan\CelebsManagement\CelebsWebApi\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\lior1\Google Drive\Ukraine\MarketMan\CelebsManagement\CelebsWebApi\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\lior1\Google Drive\Ukraine\MarketMan\CelebsManagement\CelebsWebApi\bin\Microsoft.AI.Web.xml
+C:\Users\lior1\Google Drive\Ukraine\MarketMan\CelebsManagement\CelebsWebApi\obj\Debug\CelebsWebApi.csproj.CoreCompileInputs.cache
+C:\Users\lior1\Google Drive\Ukraine\MarketMan\CelebsManagement\CelebsWebApi\obj\Debug\CelebsWebApi.csproj.CopyComplete
+C:\Users\lior1\Google Drive\Ukraine\MarketMan\CelebsManagement\CelebsWebApi\obj\Debug\CelebsWebApi.dll
+C:\Users\lior1\Google Drive\Ukraine\MarketMan\CelebsManagement\CelebsWebApi\obj\Debug\CelebsWebApi.pdb

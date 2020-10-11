@@ -1,0 +1,134 @@
+C:\Users\idan\Documents\Visual Studio 2017\Projects\CelebsManagement\CelebsFormUI\bin\Debug\ApplicationInsights.config
+C:\Users\idan\Documents\Visual Studio 2017\Projects\CelebsManagement\CelebsFormUI\bin\Debug\roslyn\csc.exe
+C:\Users\idan\Documents\Visual Studio 2017\Projects\CelebsManagement\CelebsFormUI\bin\Debug\roslyn\csc.exe.config
+C:\Users\idan\Documents\Visual Studio 2017\Projects\CelebsManagement\CelebsFormUI\bin\Debug\roslyn\csc.rsp
+C:\Users\idan\Documents\Visual Studio 2017\Projects\CelebsManagement\CelebsFormUI\bin\Debug\roslyn\csi.exe
+C:\Users\idan\Documents\Visual Studio 2017\Projects\CelebsManagement\CelebsFormUI\bin\Debug\roslyn\csi.rsp
+C:\Users\idan\Documents\Visual Studio 2017\Projects\CelebsManagement\CelebsFormUI\bin\Debug\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\idan\Documents\Visual Studio 2017\Projects\CelebsManagement\CelebsFormUI\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\idan\Documents\Visual Studio 2017\Projects\CelebsManagement\CelebsFormUI\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\idan\Documents\Visual Studio 2017\Projects\CelebsManagement\CelebsFormUI\bin\Debug\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\idan\Documents\Visual Studio 2017\Projects\CelebsManagement\CelebsFormUI\bin\Debug\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\idan\Documents\Visual Studio 2017\Projects\CelebsManagement\CelebsFormUI\bin\Debug\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\idan\Documents\Visual Studio 2017\Projects\CelebsManagement\CelebsFormUI\bin\Debug\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\idan\Documents\Visual Studio 2017\Projects\CelebsManagement\CelebsFormUI\bin\Debug\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\idan\Documents\Visual Studio 2017\Projects\CelebsManagement\CelebsFormUI\bin\Debug\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\idan\Documents\Visual Studio 2017\Projects\CelebsManagement\CelebsFormUI\bin\Debug\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\idan\Documents\Visual Studio 2017\Projects\CelebsManagement\CelebsFormUI\bin\Debug\roslyn\System.AppContext.dll
+C:\Users\idan\Documents\Visual Studio 2017\Projects\CelebsManagement\CelebsFormUI\bin\Debug\roslyn\System.Collections.Immutable.dll
+C:\Users\idan\Documents\Visual Studio 2017\Projects\CelebsManagement\CelebsFormUI\bin\Debug\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\idan\Documents\Visual Studio 2017\Projects\CelebsManagement\CelebsFormUI\bin\Debug\roslyn\System.IO.FileSystem.dll
+C:\Users\idan\Documents\Visual Studio 2017\Projects\CelebsManagement\CelebsFormUI\bin\Debug\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\idan\Documents\Visual Studio 2017\Projects\CelebsManagement\CelebsFormUI\bin\Debug\roslyn\System.Reflection.Metadata.dll
+C:\Users\idan\Documents\Visual Studio 2017\Projects\CelebsManagement\CelebsFormUI\bin\Debug\roslyn\vbc.exe
+C:\Users\idan\Documents\Visual Studio 2017\Projects\CelebsManagement\CelebsFormUI\bin\Debug\roslyn\vbc.exe.config
+C:\Users\idan\Documents\Visual Studio 2017\Projects\CelebsManagement\CelebsFormUI\bin\Debug\roslyn\vbc.rsp
+C:\Users\idan\Documents\Visual Studio 2017\Projects\CelebsManagement\CelebsFormUI\bin\Debug\roslyn\VBCSCompiler.exe
+C:\Users\idan\Documents\Visual Studio 2017\Projects\CelebsManagement\CelebsFormUI\bin\Debug\roslyn\VBCSCompiler.exe.config
+C:\Users\idan\Documents\Visual Studio 2017\Projects\CelebsManagement\CelebsFormUI\bin\Debug\CelebsFormUI.exe.config
+C:\Users\idan\Documents\Visual Studio 2017\Projects\CelebsManagement\CelebsFormUI\bin\Debug\CelebsFormUI.exe
+C:\Users\idan\Documents\Visual Studio 2017\Projects\CelebsManagement\CelebsFormUI\bin\Debug\CelebsFormUI.pdb
+C:\Users\idan\Documents\Visual Studio 2017\Projects\CelebsManagement\CelebsFormUI\bin\Debug\CelebsWebApi.dll
+C:\Users\idan\Documents\Visual Studio 2017\Projects\CelebsManagement\CelebsFormUI\bin\Debug\Newtonsoft.Json.dll
+C:\Users\idan\Documents\Visual Studio 2017\Projects\CelebsManagement\CelebsFormUI\bin\Debug\System.Web.Optimization.dll
+C:\Users\idan\Documents\Visual Studio 2017\Projects\CelebsManagement\CelebsFormUI\bin\Debug\System.Web.Mvc.dll
+C:\Users\idan\Documents\Visual Studio 2017\Projects\CelebsManagement\CelebsFormUI\bin\Debug\System.Web.Http.dll
+C:\Users\idan\Documents\Visual Studio 2017\Projects\CelebsManagement\CelebsFormUI\bin\Debug\HtmlAgilityPack.dll
+C:\Users\idan\Documents\Visual Studio 2017\Projects\CelebsManagement\CelebsFormUI\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\idan\Documents\Visual Studio 2017\Projects\CelebsManagement\CelebsFormUI\bin\Debug\System.Web.Http.WebHost.dll
+C:\Users\idan\Documents\Visual Studio 2017\Projects\CelebsManagement\CelebsFormUI\bin\Debug\WebGrease.dll
+C:\Users\idan\Documents\Visual Studio 2017\Projects\CelebsManagement\CelebsFormUI\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\idan\Documents\Visual Studio 2017\Projects\CelebsManagement\CelebsFormUI\bin\Debug\System.Web.Razor.dll
+C:\Users\idan\Documents\Visual Studio 2017\Projects\CelebsManagement\CelebsFormUI\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\idan\Documents\Visual Studio 2017\Projects\CelebsManagement\CelebsFormUI\bin\Debug\System.Web.WebPages.dll
+C:\Users\idan\Documents\Visual Studio 2017\Projects\CelebsManagement\CelebsFormUI\bin\Debug\Antlr3.Runtime.dll
+C:\Users\idan\Documents\Visual Studio 2017\Projects\CelebsManagement\CelebsFormUI\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\idan\Documents\Visual Studio 2017\Projects\CelebsManagement\CelebsFormUI\bin\Debug\CelebsWebApi.pdb
+C:\Users\idan\Documents\Visual Studio 2017\Projects\CelebsManagement\CelebsFormUI\bin\Debug\CelebsWebApi.dll.config
+C:\Users\idan\Documents\Visual Studio 2017\Projects\CelebsManagement\CelebsFormUI\bin\Debug\Newtonsoft.Json.xml
+C:\Users\idan\Documents\Visual Studio 2017\Projects\CelebsManagement\CelebsFormUI\bin\Debug\System.Web.Optimization.xml
+C:\Users\idan\Documents\Visual Studio 2017\Projects\CelebsManagement\CelebsFormUI\bin\Debug\System.Web.Mvc.xml
+C:\Users\idan\Documents\Visual Studio 2017\Projects\CelebsManagement\CelebsFormUI\bin\Debug\System.Web.Http.xml
+C:\Users\idan\Documents\Visual Studio 2017\Projects\CelebsManagement\CelebsFormUI\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\idan\Documents\Visual Studio 2017\Projects\CelebsManagement\CelebsFormUI\bin\Debug\HtmlAgilityPack.xml
+C:\Users\idan\Documents\Visual Studio 2017\Projects\CelebsManagement\CelebsFormUI\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\idan\Documents\Visual Studio 2017\Projects\CelebsManagement\CelebsFormUI\bin\Debug\System.Web.Http.WebHost.xml
+C:\Users\idan\Documents\Visual Studio 2017\Projects\CelebsManagement\CelebsFormUI\bin\Debug\System.Web.Razor.xml
+C:\Users\idan\Documents\Visual Studio 2017\Projects\CelebsManagement\CelebsFormUI\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\idan\Documents\Visual Studio 2017\Projects\CelebsManagement\CelebsFormUI\bin\Debug\System.Web.WebPages.xml
+C:\Users\idan\Documents\Visual Studio 2017\Projects\CelebsManagement\CelebsFormUI\bin\Debug\Antlr3.Runtime.pdb
+C:\Users\idan\Documents\Visual Studio 2017\Projects\CelebsManagement\CelebsFormUI\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\idan\Documents\Visual Studio 2017\Projects\CelebsManagement\CelebsFormUI\obj\Debug\CelebsFormUI.csprojResolveAssemblyReference.cache
+C:\Users\idan\Documents\Visual Studio 2017\Projects\CelebsManagement\CelebsFormUI\obj\Debug\CelebsFormUI.CelebsForm.resources
+C:\Users\idan\Documents\Visual Studio 2017\Projects\CelebsManagement\CelebsFormUI\obj\Debug\CelebsFormUI.Properties.Resources.resources
+C:\Users\idan\Documents\Visual Studio 2017\Projects\CelebsManagement\CelebsFormUI\obj\Debug\CelebsFormUI.csproj.GenerateResource.Cache
+C:\Users\idan\Documents\Visual Studio 2017\Projects\CelebsManagement\CelebsFormUI\obj\Debug\CelebsFormUI.exe
+C:\Users\idan\Documents\Visual Studio 2017\Projects\CelebsManagement\CelebsFormUI\obj\Debug\CelebsFormUI.pdb
+C:\Users\lior1\Google Drive\Ukraine\MarketMan\CelebsManagement\CelebsFormUI\bin\Debug\ApplicationInsights.config
+C:\Users\lior1\Google Drive\Ukraine\MarketMan\CelebsManagement\CelebsFormUI\bin\Debug\roslyn\csc.exe
+C:\Users\lior1\Google Drive\Ukraine\MarketMan\CelebsManagement\CelebsFormUI\bin\Debug\roslyn\csc.exe.config
+C:\Users\lior1\Google Drive\Ukraine\MarketMan\CelebsManagement\CelebsFormUI\bin\Debug\roslyn\csc.rsp
+C:\Users\lior1\Google Drive\Ukraine\MarketMan\CelebsManagement\CelebsFormUI\bin\Debug\roslyn\csi.exe
+C:\Users\lior1\Google Drive\Ukraine\MarketMan\CelebsManagement\CelebsFormUI\bin\Debug\roslyn\csi.rsp
+C:\Users\lior1\Google Drive\Ukraine\MarketMan\CelebsManagement\CelebsFormUI\bin\Debug\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\lior1\Google Drive\Ukraine\MarketMan\CelebsManagement\CelebsFormUI\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\lior1\Google Drive\Ukraine\MarketMan\CelebsManagement\CelebsFormUI\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\lior1\Google Drive\Ukraine\MarketMan\CelebsManagement\CelebsFormUI\bin\Debug\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\lior1\Google Drive\Ukraine\MarketMan\CelebsManagement\CelebsFormUI\bin\Debug\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\lior1\Google Drive\Ukraine\MarketMan\CelebsManagement\CelebsFormUI\bin\Debug\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\lior1\Google Drive\Ukraine\MarketMan\CelebsManagement\CelebsFormUI\bin\Debug\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\lior1\Google Drive\Ukraine\MarketMan\CelebsManagement\CelebsFormUI\bin\Debug\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\lior1\Google Drive\Ukraine\MarketMan\CelebsManagement\CelebsFormUI\bin\Debug\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\lior1\Google Drive\Ukraine\MarketMan\CelebsManagement\CelebsFormUI\bin\Debug\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\lior1\Google Drive\Ukraine\MarketMan\CelebsManagement\CelebsFormUI\bin\Debug\roslyn\System.AppContext.dll
+C:\Users\lior1\Google Drive\Ukraine\MarketMan\CelebsManagement\CelebsFormUI\bin\Debug\roslyn\System.Collections.Immutable.dll
+C:\Users\lior1\Google Drive\Ukraine\MarketMan\CelebsManagement\CelebsFormUI\bin\Debug\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\lior1\Google Drive\Ukraine\MarketMan\CelebsManagement\CelebsFormUI\bin\Debug\roslyn\System.IO.FileSystem.dll
+C:\Users\lior1\Google Drive\Ukraine\MarketMan\CelebsManagement\CelebsFormUI\bin\Debug\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\lior1\Google Drive\Ukraine\MarketMan\CelebsManagement\CelebsFormUI\bin\Debug\roslyn\System.Reflection.Metadata.dll
+C:\Users\lior1\Google Drive\Ukraine\MarketMan\CelebsManagement\CelebsFormUI\bin\Debug\roslyn\vbc.exe
+C:\Users\lior1\Google Drive\Ukraine\MarketMan\CelebsManagement\CelebsFormUI\bin\Debug\roslyn\vbc.exe.config
+C:\Users\lior1\Google Drive\Ukraine\MarketMan\CelebsManagement\CelebsFormUI\bin\Debug\roslyn\vbc.rsp
+C:\Users\lior1\Google Drive\Ukraine\MarketMan\CelebsManagement\CelebsFormUI\bin\Debug\roslyn\VBCSCompiler.exe
+C:\Users\lior1\Google Drive\Ukraine\MarketMan\CelebsManagement\CelebsFormUI\bin\Debug\roslyn\VBCSCompiler.exe.config
+C:\Users\lior1\Google Drive\Ukraine\MarketMan\CelebsManagement\CelebsFormUI\bin\Debug\CelebsFormUI.exe.config
+C:\Users\lior1\Google Drive\Ukraine\MarketMan\CelebsManagement\CelebsFormUI\bin\Debug\CelebsFormUI.exe
+C:\Users\lior1\Google Drive\Ukraine\MarketMan\CelebsManagement\CelebsFormUI\bin\Debug\CelebsFormUI.pdb
+C:\Users\lior1\Google Drive\Ukraine\MarketMan\CelebsManagement\CelebsFormUI\bin\Debug\CelebsWebApi.dll
+C:\Users\lior1\Google Drive\Ukraine\MarketMan\CelebsManagement\CelebsFormUI\bin\Debug\Newtonsoft.Json.dll
+C:\Users\lior1\Google Drive\Ukraine\MarketMan\CelebsManagement\CelebsFormUI\bin\Debug\System.Web.Optimization.dll
+C:\Users\lior1\Google Drive\Ukraine\MarketMan\CelebsManagement\CelebsFormUI\bin\Debug\System.Web.Mvc.dll
+C:\Users\lior1\Google Drive\Ukraine\MarketMan\CelebsManagement\CelebsFormUI\bin\Debug\System.Web.Http.dll
+C:\Users\lior1\Google Drive\Ukraine\MarketMan\CelebsManagement\CelebsFormUI\bin\Debug\HtmlAgilityPack.dll
+C:\Users\lior1\Google Drive\Ukraine\MarketMan\CelebsManagement\CelebsFormUI\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\lior1\Google Drive\Ukraine\MarketMan\CelebsManagement\CelebsFormUI\bin\Debug\System.Web.Http.WebHost.dll
+C:\Users\lior1\Google Drive\Ukraine\MarketMan\CelebsManagement\CelebsFormUI\bin\Debug\WebGrease.dll
+C:\Users\lior1\Google Drive\Ukraine\MarketMan\CelebsManagement\CelebsFormUI\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\lior1\Google Drive\Ukraine\MarketMan\CelebsManagement\CelebsFormUI\bin\Debug\System.Web.Razor.dll
+C:\Users\lior1\Google Drive\Ukraine\MarketMan\CelebsManagement\CelebsFormUI\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\lior1\Google Drive\Ukraine\MarketMan\CelebsManagement\CelebsFormUI\bin\Debug\System.Web.WebPages.dll
+C:\Users\lior1\Google Drive\Ukraine\MarketMan\CelebsManagement\CelebsFormUI\bin\Debug\Antlr3.Runtime.dll
+C:\Users\lior1\Google Drive\Ukraine\MarketMan\CelebsManagement\CelebsFormUI\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\lior1\Google Drive\Ukraine\MarketMan\CelebsManagement\CelebsFormUI\bin\Debug\CelebsWebApi.pdb
+C:\Users\lior1\Google Drive\Ukraine\MarketMan\CelebsManagement\CelebsFormUI\bin\Debug\CelebsWebApi.dll.config
+C:\Users\lior1\Google Drive\Ukraine\MarketMan\CelebsManagement\CelebsFormUI\bin\Debug\Newtonsoft.Json.xml
+C:\Users\lior1\Google Drive\Ukraine\MarketMan\CelebsManagement\CelebsFormUI\bin\Debug\System.Web.Optimization.xml
+C:\Users\lior1\Google Drive\Ukraine\MarketMan\CelebsManagement\CelebsFormUI\bin\Debug\System.Web.Mvc.xml
+C:\Users\lior1\Google Drive\Ukraine\MarketMan\CelebsManagement\CelebsFormUI\bin\Debug\System.Web.Http.xml
+C:\Users\lior1\Google Drive\Ukraine\MarketMan\CelebsManagement\CelebsFormUI\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\lior1\Google Drive\Ukraine\MarketMan\CelebsManagement\CelebsFormUI\bin\Debug\HtmlAgilityPack.xml
+C:\Users\lior1\Google Drive\Ukraine\MarketMan\CelebsManagement\CelebsFormUI\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\lior1\Google Drive\Ukraine\MarketMan\CelebsManagement\CelebsFormUI\bin\Debug\System.Web.Http.WebHost.xml
+C:\Users\lior1\Google Drive\Ukraine\MarketMan\CelebsManagement\CelebsFormUI\bin\Debug\System.Web.Razor.xml
+C:\Users\lior1\Google Drive\Ukraine\MarketMan\CelebsManagement\CelebsFormUI\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\lior1\Google Drive\Ukraine\MarketMan\CelebsManagement\CelebsFormUI\bin\Debug\System.Web.WebPages.xml
+C:\Users\lior1\Google Drive\Ukraine\MarketMan\CelebsManagement\CelebsFormUI\bin\Debug\Antlr3.Runtime.pdb
+C:\Users\lior1\Google Drive\Ukraine\MarketMan\CelebsManagement\CelebsFormUI\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\lior1\Google Drive\Ukraine\MarketMan\CelebsManagement\CelebsFormUI\obj\Debug\CelebsFormUI.csprojAssemblyReference.cache
+C:\Users\lior1\Google Drive\Ukraine\MarketMan\CelebsManagement\CelebsFormUI\obj\Debug\CelebsFormUI.CelebsForm.resources
+C:\Users\lior1\Google Drive\Ukraine\MarketMan\CelebsManagement\CelebsFormUI\obj\Debug\CelebsFormUI.Properties.Resources.resources
+C:\Users\lior1\Google Drive\Ukraine\MarketMan\CelebsManagement\CelebsFormUI\obj\Debug\CelebsFormUI.csproj.GenerateResource.cache
+C:\Users\lior1\Google Drive\Ukraine\MarketMan\CelebsManagement\CelebsFormUI\obj\Debug\CelebsFormUI.csproj.CoreCompileInputs.cache
+C:\Users\lior1\Google Drive\Ukraine\MarketMan\CelebsManagement\CelebsFormUI\obj\Debug\CelebsFormUI.csproj.CopyComplete
+C:\Users\lior1\Google Drive\Ukraine\MarketMan\CelebsManagement\CelebsFormUI\obj\Debug\CelebsFormUI.exe
+C:\Users\lior1\Google Drive\Ukraine\MarketMan\CelebsManagement\CelebsFormUI\obj\Debug\CelebsFormUI.pdb
